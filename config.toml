@@ -1,0 +1,39 @@
+baseURL = "http://ravenoak.github.io/"
+languageCode = "en-us"
+title = "ravenoak.github.io"
+theme = "ananke"
+
+[params]
+  text_color = ""
+  author = "Caitlyn O'Hanna"
+  favicon = "favicon.ico"
+  site_logo = "logo-octocat.png"
+  description = "CV and Blog of Caitlyn O'Hanna"
+
+[[params.ananke_socials]]
+  name = "github"
+  url = "https://github.com/ravenoak"
+[[params.ananke_socials]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/caitlyn-o-hanna-a3955310/"
+
+[menu]
+
+[[menu.main]]
+  identifier = "posts"
+  name = "blog"
+  title = "blog section"
+  url = "/posts/"
+  weight = -110
+[[menu.main]]
+  identifier = "about"
+  name = "about"
+  title = "About Caitlyn O'Hanna"
+  url = "/about/"
+  weight = 0
+[[menu.main]]
+  identifier = "projects"
+  name = "projects"
+  title = "My Projects"
+  url = "/projects/"
+  weight = 10
