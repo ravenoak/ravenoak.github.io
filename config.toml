@@ -1,4 +1,4 @@
-baseURL = "http://ravenoak.github.io/"
+baseURL = "https://ravenoak.github.io/"
 languageCode = "en-us"
 title = "ravenoak.github.io"
 theme = "ananke"
