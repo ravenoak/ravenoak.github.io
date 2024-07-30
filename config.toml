@@ -8,7 +8,7 @@ theme = "ananke"
   author = "Caitlyn O'Hanna"
   favicon = "favicon.ico"
   site_logo = "logo-octocat.png"
-  description = "CV and Blog of Caitlyn O'Hanna"
+  description = "Living CV and Blog of Caitlyn O'Hanna"
 
 [[params.ananke_socials]]
   name = "github"
